@@ -1,3 +1,5 @@
+<img width="1080" height="820" alt="currency conventer ss" src="https://github.com/user-attachments/assets/79564d09-4514-44da-8d71-88252687d150" />
+
 # Currency Converter
 
 An Android currency converter application built with Kotlin and Jetpack Compose.
